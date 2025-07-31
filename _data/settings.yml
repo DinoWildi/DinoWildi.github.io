@@ -5,8 +5,7 @@ menu:
 
 social:
 - {icon: 'github', link: 'https://github.com/DinoWildi'}
-- {icon: 'fa-bluesky', link: 'https://bsky.app/profile/dnwildi.bsky.social'}
-- {icon: 'fa-orcid', link: 'https://orcid.org/0009-0008-9076-6718'}
-
+- {icon: 'bluesky', link: 'https://bsky.app/profile/dnwildi.bsky.social'}
+- {icon: 'orcid', link: 'https://orcid.org/0009-0008-9076-6718'}
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Dino Noah Wildi', department: 'Institut für Politische Wissenschaft', institution: 'Ruprechts-Karls-Universität Heidelberg', institution_address: 'Bergheimer Strasse 58, 69115 Heidelberg, Germany', email: dino.wildi@ipw.uni-heidelberg.de}
