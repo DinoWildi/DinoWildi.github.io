@@ -2,7 +2,6 @@
 layout: home
 title: "Dino Noah Wildi"
 ---
-### Welcome to my website!
 &ensp; &ensp; I am a **postdoctoral researcher** at the **Ruprechts-Karls-Universität Heidelberg**, where I work in the ClimateDivide research project headed by [Endre Borbáth](https://endre-borbath.eu/). I currently work at identifying political claims made by various actors about climate protection and climate change across various European countries, using a variety of state-of-the-art text analysis methods. This data will later be used to research the dynamics of politicising climate change, and to identify actors driving this policitisation.
 
 ### Alongside this project,
