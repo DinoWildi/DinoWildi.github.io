@@ -7,5 +7,6 @@ social:
 - {icon: 'github', link: 'https://github.com/DinoWildi'}
 - {icon: 'bluesky', link: 'https://bsky.app/profile/dnwildi.bsky.social'}
 - {icon: 'orcid', link: 'https://orcid.org/0009-0008-9076-6718'}
+
 contacts:
-- {name: 'Dino Noah Wildi', department: 'Institut für Politische Wissenschaft', institution: 'Ruprechts-Karls-Universität Heidelberg', institution_address: 'Bergheimer Strasse 58, 69115 Heidelberg, Germany', email: dino.wildi@ipw.uni-heidelberg.de}
+- {name: 'Dino Noah Wildi', title: 'Postdoctoral Researcher', department: 'Institut für Politische Wissenschaft', institution: 'Ruprechts-Karls-Universität Heidelberg', institution_address: 'Bergheimer Strasse 58, 69115 Heidelberg, Germany', email: 'dino.wildi@ipw.uni-heidelberg.de', bluesky: '@dnwildi.bsky.social'}
