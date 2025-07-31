@@ -2,6 +2,7 @@
 layout: default
 title: "Research"
 ---
+# My Research
 &nbsp; focuses on party politics and electoral campaigns in Europe. I want to understand how new parties, especially those on the populist radical right, are changing the political landscape, and how mainstream parties react to those shifts. My work focuses on quantitative comparative research, usually across countries, including various text analysis methods and work relying on survey data.
 
 On this site, you'll find a list of research projects, published papers, and forthcoming works I am involved in. Please feel free to approach me with any questions or follow-ups on these works!
