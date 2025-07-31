@@ -1,5 +1,5 @@
 menu:
-- {name: 'about', url: '/index'
+- {name: 'about', url: '/index'}
 - {name: 'research', url: '/research'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
