@@ -9,7 +9,7 @@ On this site, you'll find a list of research projects, published papers, and for
 Note that some of the works mentioned on this page are work in progress. If you wish to cite a paper listed as forthcoming, please contact me ahead to ensure you are working with the newest version of the paper.
 
 ### Published Works
-Wildi, D. N. (2024): Not everyone suffers equally: The effect of electoral overlap on mainstream party responses to radical right parties. *Party Politics 31(4),* 634-645. https://doi.org/10.1177/13540688241247123
+Wildi, D. N. (2024): Not everyone suffers equally: The effect of electoral overlap on mainstream party responses to radical right parties. *Party Politics 31(4),* 634-645. [https://doi.org/10.1177/13540688241247123](https://doi.org/10.1177/13540688241247123)
 
 ### Forthcoming Works
 Wildi, D. N.: Negative Campaigning against the European Radical Right. To be published in a forthcoming edited volume.
