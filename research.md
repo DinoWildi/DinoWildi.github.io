@@ -16,6 +16,8 @@ Wildi, D. N.: Negative Campaigning against the European Radical Right. To be pub
 
 ### Works in Progress
 Wildi, D. N.: Can the Radical Right be Threatened from the Left? To be submitted for reviews by 2026.
+Wildi, D. N. and Borbáth, E.: Automating Political Claims Analysis Using Large Language Models.
+Borbáth, E. and Wildi, D. N.: From Valence to Cleavage: Conceptualizing the Climate Divide as a Political Mobilisation Issue.
 
 ### Research Project Participation
 
